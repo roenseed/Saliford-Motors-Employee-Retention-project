@@ -15,7 +15,7 @@ The employee dataset, sourced from [Kaggle HR Job Prediction](https://www.kaggle
 ## Modeling and Evaluation
 The final Random Forest model, consisting of 300 trees, was selected as the best model to predict employee retention. The model also helped identify key predictive features. The plot below shows that the last evaluation score, number of projects completed, tenure, and whether the employee was overworked were the most important predictors for employee retention. The model achieved an accuracy of 96%, an F1-score of 92%, and an ROC-AUC of 0.942 on the test set.
 
-![image](./fig/output_189_0.png)
+![image](./data_viz/15.png)
 
 
 ## Conclusion
