@@ -22,3 +22,9 @@ The final Random Forest model, consisting of 300 trees, was selected as the best
 
 ## Conclusion
 The Random Forest model was retrained on the full dataset (training, validation, and test sets combined) to prepare for potential future deployment. The EDA and model results confirmed that overwork was a major factor in employee attrition. Based on these insights, several recommendations were made to stakeholders, including limiting the number of projects per employee, improving work-life balance, and reviewing time-off policies to enhance employee retention.
+
+## AUTHOR
+- **Charoen Kasetruengphol (Roen)**
+---
+
+This project is part of the Google Data Advanced Analytics Professional Certificate and aims to provide practical experience in Machine Learning, Model Prediction, EDA, and Data Mining.
